@@ -12,10 +12,188 @@ Nämä ohjeet pohjautuvat henkilökohtaisiin kokemuksiin mutta eivät välttäm�
 - Yleisesti ottaen maksukorttien toimivuus on viime vuosina parantunut huomattavasti, käteistä tarvitsee lähinnä muutamissa ravintoloissa ja joissakin ryokan-henkisissä majoitteissa.
 - Suica-matkakortin saa nykyään kätevästi ainakin tuoreisiin Applen mobiililaitteisiin ja sen lataus käy näppärästi Apple Payllä. Suomessa helposti saatavilla olevia Apple Pay -yhteensopivia maksuvälineitä saa esimerkiksi Nordealta ja N26:lta. Suica toimii joukkoliikenteen lisäksi kätevästi myös useissa kaupoissa ja automaateissa.  
 - Jos aiot kulkea yli yhden matkan viikon aikana Shinkansen-junalla, Japan Rail Pass -tuote tulee keskimäärin erillisiä junalippuja halvemmaksi. Toimivaksi testattuja myyjiä ovat esimerkiksi <https://www.japan-rail-pass.com/>, <http://www.jrpassonline.com/> ja <https://www.jrpass.com/>, kannattaa vertailla päivän hintaa eri toimijoiden välillä. 
+- Jos jollakin paikkakunnalla majoitusratkaisuun ei ole erityistä preferenssiä, erilaiset bisneshotelliketjut (esim. APA Hotels, Toyoko Inn jne.) palvelevat tyypillisesti melko hyvin. Omatoimisesti kannattaa toki myös käydä kohteesta eri hakukoneiden tulokset, esim. [Booking.com](https://www.booking.com/index.html?aid=1485436) läpi ja koettaa poimia sieltä sopivan näköiset vaihtoehdot. Osalla kavereista on ollut ihan toimivia kokemuksia myös Airbnb-majoituksesta, mutta ainakin itse suhtaudun tähän varauksella, varsinkin suuremmissa kaupungeissa, historiassa löytyy kokemusta majoittajien tekemistä perumisista. 
  
 ## Kohdetietoutta
 
 Tässä listatut kohteet ja majoitusratkaisut on testattu henkilökohtaisesti.
+
+### Huomionarvoisia ketjuravintoloita
+
+- Ichiran
+- Cocoichi
+- Sushizanmai
+- HUB
+
+### Aizuwakamatsu
+#### Majoitus lämpimien vesien äärellä
+- Harataki [Sivusto](http://yumeguri.co.jp/) [Booking.com](http://www.booking.com/hotel/jp/harataki.html?aid=1485436) 
+    - Viihtyisä onsenryokan, täällä oli siistiä seurata ulkoaltaan katetun osan alla ympärillä pauhaavaa ukkosta
+
+#### Muuta nähtävää
+- Legendaarinen Aizuwakamatsun asema, jonka webikameraa itse kukin on seurannut. Harmillisesti kamerapalvelu on lakkautettu.
+
+
+### Aomori
+#### Majoitus
+- Iroha Ryokan [Booking.com](http://www.booking.com/hotel/jp/iroha-ryokan-aomori.html?aid=1485436)
+    - Sympaattinen Bed & Breakfast -henkinen majatalo
+
+#### Muuta nähtävää
+
+- Japanin vanhin omenapuu
+
+
+### Beppu
+#### Majoitus
+
+- Beppu Kamenoi Hotel [Booking.com](http://www.booking.com/hotel/jp/kamenoi-beppu.html?aid=1485436)
+    - Perus-Ok hotelli.
+
+#### Ruokailu
+
+- Robata-Jin [Sivusto](http://robata-jin.com/) [Foursquare](http://4sq.com/bBrAcv)
+    - Laadukas kalapainotteinen izakaya.
+- Kogetsu [Foursquare](http://4sq.com/a3Dik6)
+    - Erinomaiset gyozat
+
+#### Lämpimiä vesiä
+
+- Liian monta kylpypaikkaa listattavaksi tähän, muista käydä kaikissa!
+
+#### Muuta nähtävää
+
+- Jigoku Onsen
+
+
+### Fukuoka
+#### Majoitus
+
+- Japanese Ryokan Kashima Honkan [Booking.com](http://www.booking.com/hotel/jp/japanese-ryokan-kashima-honkan.html?aid=1485436)
+    - Viihtyisä perusryokan
+- Hana Hostel Fukuoka [Booking.com](http://www.booking.com/hotel/jp/fukuoka-hana-hostel.html?aid=1485436)
+    - Ostoskadun varrella oleva mainio hostelli
+
+#### Ruokailu
+
+- Monet Yatai-kojut
+- Goodbeer Faucets Hakata [Foursquare](http://4sq.com/174fIi3)
+- Hakata Ramen Zen [Foursquare](http://4sq.com/63F4Ng)
+
+
+### Gero
+#### Majoitus ja lämpimiä vesiä
+
+- Ogawaya [Booking.com](http://www.booking.com/hotel/jp/ogawaya-bekkan-yuragi.html?aid=1485436)
+    - Perinteikäs onsenryokan
+- Hotel Kusakabe Armeria [Booking.com](http://www.booking.com/hotel/jp/kusakabe-armeria.html?aid=1485436)
+    - Vähän erikoisempi thai-vaikutteinen onsenhotelli
+
+
+### Gifu
+#### Majoitus
+
+- Il Credo Gifu [Booking.com](http://www.booking.com/hotel/jp/il-credo-gifu.html?aid=1485436)
+    - Perustoimiva bisneshotelli
+
+#### Muuta nähtävää
+
+- Toimivaa vaihtelua ekan päivän tukikohdaksi Nagoyan kautta maahan saavuttaessa. Nagoya saavutettavissa kätevästi paikallisjunalla.
+
+### Hakodate
+#### Majoitus
+#### Ruokailu
+#### Lämpimiä vesiä
+#### Muuta nähtävää
+
+
+### Hirosaki
+#### Majoitus
+#### Ruokailu
+#### Lämpimiä vesiä
+#### Muuta nähtävää
+
+
+### Hiroshima
+#### Majoitus
+#### Ruokailu
+#### Lämpimiä vesiä
+#### Muuta nähtävää
+
+
+### Kagoshima
+#### Majoitus
+#### Ruokailu
+#### Lämpimiä vesiä
+#### Muuta nähtävää
+
+
+### Kobe
+#### Majoitus
+#### Ruokailu
+#### Lämpimiä vesiä
+#### Muuta nähtävää
+
+
+### Kyoto
+#### Majoitus
+#### Ruokailu
+#### Lämpimiä vesiä
+#### Muuta nähtävää
+
+
+### Matsuyama
+#### Majoitus
+#### Ruokailu
+#### Lämpimiä vesiä
+#### Muuta nähtävää
+
+
+### Minakami
+#### Majoitus
+#### Ruokailu
+#### Lämpimiä vesiä
+#### Muuta nähtävää
+
+
+### Nagasaki
+#### Majoitus
+#### Ruokailu
+#### Lämpimiä vesiä
+#### Muuta nähtävää
+
+### Nagoya
+#### Ruokailu
+
+- http://4sq.com/1tJD31E
+- http://4sq.com/1lterWM
+
+### Nyuto onsen
+#### Majoitus
+#### Ruokailu
+#### Lämpimiä vesiä
+#### Muuta nähtävää
+
+
+### Osaka
+#### Majoitus
+#### Ruokailu
+#### Lämpimiä vesiä
+#### Muuta nähtävää
+
+
+### Sapporo
+#### Majoitus
+#### Ruokailu
+#### Lämpimiä vesiä
+#### Muuta nähtävää
+
+
+### Sendai
+#### Majoitus
+#### Ruokailu
+#### Lämpimiä vesiä
+#### Muuta nähtävää
 
 ### Takayama
 
@@ -51,3 +229,15 @@ Tässä listatut kohteet ja majoitusratkaisut on testattu henkilökohtaisesti.
     - Shirakawago
     - [Mt. Hotakadake](http://shinhotaka-ropeway.jp.e.uk.hp.transer.com/)
     - [Hida Great Limestone Cave](http://www.syonyudo.com/en/) 
+
+### Tokyo
+#### Majoitus
+#### Ruokailu
+#### Lämpimiä vesiä
+#### Muuta nähtävää
+### Toyama
+#### Majoitus
+#### Ruokailu
+#### Lämpimiä vesiä
+#### Muuta nähtävää
+
