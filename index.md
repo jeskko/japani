@@ -18,12 +18,14 @@ Nämä ohjeet pohjautuvat henkilökohtaisiin kokemuksiin mutta eivät välttäm�
 
 Tässä listatut kohteet ja majoitusratkaisut on testattu henkilökohtaisesti.
 
-### Huomionarvoisia ketjuravintoloita
+### Huomionarvoisia ja toimiviksi todettuja ketjuravintoloita
 
 - Ichiran
 - Cocoichi
 - Sushizanmai
 - HUB
+- Gyukaku
+- Torikizoku
 
 ### Aizuwakamatsu
 #### Majoitus lämpimien vesien äärellä
@@ -101,99 +103,144 @@ Tässä listatut kohteet ja majoitusratkaisut on testattu henkilökohtaisesti.
 - Toimivaa vaihtelua ekan päivän tukikohdaksi Nagoyan kautta maahan saavuttaessa. Nagoya saavutettavissa kätevästi paikallisjunalla.
 
 ### Hakodate
+
 #### Majoitus
+
+- Oyado Aozora [Booking.com](https://www.booking.com/hotel/jp/oyado-aozora.fi.html?aid=1485436)
+    - Sympaattinen majatalo aseman lähellä
+
 #### Ruokailu
+
+- [Lucky Pierrot](http://luckypierrot.jp/) -burgeriketju
+- [Hakodate Beerhall](http://hkumaiyo.com/)
+
 #### Lämpimiä vesiä
+
+- [Nagomi Onsen](http://nagomi-onsen.jp/hakodate/)
+
 #### Muuta nähtävää
 
+- [Cape Tachimachi](https://www.hakobura.jp/db/db-view/2010/09/post-154.html)
+    - Kivat jumitusmaisemat erityisesti kesäisemmällä kelillä.
+- [Goryokaku](https://www.hakobura.jp/db/db-view/2011/04/post-122.html) -linnakkeen rauniot
+- Mt. Hakodate
+    - Tänne kannattaa tähdätä auringonlaskun aikoihin, kaupunkinäkymä palvelee. 
 
 ### Hirosaki
-#### Majoitus
-#### Ruokailu
-#### Lämpimiä vesiä
-#### Muuta nähtävää
 
+#### Majoitus
+
+- Ishiba Ryokan [Booking.com](https://www.booking.com/hotel/jp/ishiba-ryokan.fi.html?aid=1485436)
 
 ### Hiroshima
+
 #### Majoitus
-#### Ruokailu
-#### Lämpimiä vesiä
+- Hana Hostel Hiroshima [Sivusto](http://hiroshima.hanahostel.com/) [Booking.com](https://www.booking.com/hotel/jp/hiroshima-hana-hostel.fi.html?aid=1485436)
+- Ryoso Kawaguchi [Sivusto](http://ryoso-kawaguchi.jp/) [Booking.com](https://www.booking.com/hotel/jp/ryo-so-kawaguchi.fi.html?aid=1485436)
+    - Mainio ryokan Miyajima-saarella
+
 #### Muuta nähtävää
 
-
-### Kagoshima
-#### Majoitus
-#### Ruokailu
-#### Lämpimiä vesiä
-#### Muuta nähtävää
-
-
-### Kobe
-#### Majoitus
-#### Ruokailu
-#### Lämpimiä vesiä
-#### Muuta nähtävää
-
+- Rauhanmuistomuseo [Sivusto](http://hpmmuseum.jp/)
+- Ookunoshima 
+    - Saari jolla valtavasti puolikesyjä kaneja
+    - Myrkkykaasumuseo
+    - Täällä vierailun ohessa voi käydä sujuvasti matkalla [Yamato-museossa](http://yamato-museum.com/) Kuressa. 
+- Miyajima
+    - Itsukushima shrine
+    - Peuroja
 
 ### Kyoto
-#### Majoitus
-#### Ruokailu
-#### Lämpimiä vesiä
-#### Muuta nähtävää
 
+#### Majoitus
+
+- Hana Hostel Kyoto [Sivusto](http://kyoto.hanahostel.com/) [Booking.com](https://www.booking.com/hotel/jp/hybrid-inn-kyoto-hana-hostel.fi.html?aid=1485436)
+
+#### Ruokailu
+
+- [Ginjo Ramen Kubota](https://foursquare.com/v/%E5%90%9F%E9%86%B8%E3%82%89%E3%83%BC%E3%82%81%E3%82%93-%E4%B9%85%E4%BF%9D%E7%94%B0/4ba0a4c7f964a520917537e3)
 
 ### Matsuyama
+
 #### Majoitus
+
+- Sen Guesthouse [Sivusto](http://senguesthouse-matsuyama.com/about-us-2/) [Booking.com](https://www.booking.com/hotel/jp/sen-guesthouse.fi.html?aid=1485436)
+
 #### Ruokailu
+
+- [Dogo Bakushukan](https://foursquare.com/v/%E9%81%93%E5%BE%8C%E9%BA%A6%E9%85%92%E9%A4%A8/4ba43b22f964a520408e38e3)
+
 #### Lämpimiä vesiä
-#### Muuta nähtävää
+
+- [Dogo Onsen](http://www.dogo.or.jp/pc/)
 
 
 ### Minakami
-#### Majoitus
-#### Ruokailu
-#### Lämpimiä vesiä
-#### Muuta nähtävää
 
+#### Majoitus, ruokailu ja lämpimiä vesiä
+
+- Takaragawa onsen [Sivusto](http://www.takaragawa.com/english.html) [Booking.com](https://www.booking.com/hotel/jp/takaragawa-onsen-ousenkaku.fi.html?aid=1485436)
+    - Yksi suosikkionseneistani
 
 ### Nagasaki
-#### Majoitus
+
 #### Ruokailu
-#### Lämpimiä vesiä
+
+- Hountei [Foursquare](https://foursquare.com/v/%E5%AE%9D%E9%9B%B2%E4%BA%AD-%E6%9C%AC%E5%BA%97/4d036d0da268548119b1b1bd)
+     - Hyvät gyozat
+
 #### Muuta nähtävää
+
+- [Atomipommimuseo](http://nagasakipeace.jp/)
+- [Nagasaki Seaside Park](http://4sq.com/7cmWGS)
 
 ### Nagoya
+
 #### Ruokailu
 
-- http://4sq.com/1tJD31E
-- http://4sq.com/1lterWM
+- [Beer Pub Brick Lane](http://4sq.com/1tJD31E)
+- [Y.Market Brewing Kitchen](http://4sq.com/1lterWM)
 
 ### Nyuto onsen
-#### Majoitus
-#### Ruokailu
-#### Lämpimiä vesiä
-#### Muuta nähtävää
 
+#### Majoitus, ruokailu ja lämpimät vedet
+
+- Tsurunoyu onsen [Sivusto](http://www.tsurunoyu.com/english.html)
+    - Yksi suosikkionseneistani
 
 ### Osaka
-#### Majoitus
-#### Ruokailu
-#### Lämpimiä vesiä
-#### Muuta nähtävää
 
+#### Majoitus 
 
-### Sapporo
-#### Majoitus
-#### Ruokailu
-#### Lämpimiä vesiä
-#### Muuta nähtävää
+- Hana Hostel Osaka [Booking.com](https://www.booking.com/hotel/jp/osaka-hana-hostel.fi.html?aid=1485436)
+    - Oivallinen sijainti. Kannattaa olla varaamassa hyvissä ajoin!
+- J-Hoppers Osaka [Booking.com](https://www.booking.com/hotel/jp/j-hoppers-osaka-central-guesthouse.fi.html?aid=1485436)
+    - Hyvä vaihtoehto jos Hana hostelliin ei mahdu
 
+#### Ruokailu ja muu viihdetoiminta
+
+- [Craft Burger co.](http://4sq.com/1ZbOlKj) 
+- [Fiji Bar](http://4sq.com/xilIuk) 
+- [Fugetsu](http://4sq.com/w9AvYU) Okonomiyakia
+- [ganja/acid](http://4sq.com/jMxmSI) Kompakti ja persoonallinen baari
+- [Hozenji-yokocho Yakizen](http://4sq.com/gQCpbt) Okonomiyakia
+- [Oliveira's Hamburger & Hotdog](http://4sq.com/dG2q8n)
+- [Rock Rock](http://4sq.com/bCKQwm) Rokkibaari
+- [R Riverside Grill & Beer Garden](http://4sq.com/d5tzz8) 
+- [Space Station](http://4sq.com/irD5ov) -pelibaari
 
 ### Sendai
+
 #### Majoitus
+
 #### Ruokailu
+
 #### Lämpimiä vesiä
+
+
+
 #### Muuta nähtävää
+
 
 ### Takayama
 
@@ -231,13 +278,24 @@ Tässä listatut kohteet ja majoitusratkaisut on testattu henkilökohtaisesti.
     - [Hida Great Limestone Cave](http://www.syonyudo.com/en/) 
 
 ### Tokyo
+
 #### Majoitus
+
 #### Ruokailu
+
 #### Lämpimiä vesiä
+
 #### Muuta nähtävää
+
+
 ### Toyama
+
 #### Majoitus
+
 #### Ruokailu
+
 #### Lämpimiä vesiä
+
 #### Muuta nähtävää
+
 
