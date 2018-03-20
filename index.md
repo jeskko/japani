@@ -69,6 +69,7 @@ Tässä listatut kohteet ja majoitusratkaisut on testattu henkilökohtaisesti.
 
 
 ### Fukuoka
+
 #### Majoitus
 
 - Japanese Ryokan Kashima Honkan [Booking.com](http://www.booking.com/hotel/jp/japanese-ryokan-kashima-honkan.html?aid=1485436)
@@ -84,6 +85,7 @@ Tässä listatut kohteet ja majoitusratkaisut on testattu henkilökohtaisesti.
 
 
 ### Gero
+
 #### Majoitus ja lämpimiä vesiä
 
 - Ogawaya [Booking.com](http://www.booking.com/hotel/jp/ogawaya-bekkan-yuragi.html?aid=1485436)
@@ -93,6 +95,7 @@ Tässä listatut kohteet ja majoitusratkaisut on testattu henkilökohtaisesti.
 
 
 ### Gifu
+
 #### Majoitus
 
 - Il Credo Gifu [Booking.com](http://www.booking.com/hotel/jp/il-credo-gifu.html?aid=1485436)
@@ -233,14 +236,29 @@ Tässä listatut kohteet ja majoitusratkaisut on testattu henkilökohtaisesti.
 
 #### Majoitus
 
-#### Ruokailu
+- Smile Hotel Sendai Kokubuncho [Sivusto](https://smile-hotels.com/hotels/show/sendaikokubuncho) [Booking.com](https://www.booking.com/hotel/jp/smile-sendai-kokubuncho.fi.html?aid=1485436)
+    - Perus bisneshotelli oivallisella sijainnilla
+
+#### Ruokailu ja muu viihdetoiminta
+- [Bontengyoko](http://4sq.com/R19Yyt)
+- [Haruban](http://4sq.com/1LvFT6I) - Korean BBQ
+- [Higashiyama](http://4sq.com/aUS4uc)
+- [Kanako's Soup Curry Shop](http://4sq.com/blaAYe) 
+- [Oppesyan](http://4sq.com/dy1fCn) - Raamenia
+- [Rose Garden](http://4sq.com/dRMSmr) - Yakinikua
+- [Saruwari](http://4sq.com/O1QhjD) - Oivalliset nikumanit
 
 #### Lämpimiä vesiä
 
+- Akiu onsen
+- Sakunami onsen
 
+Näissä molemmissa kohteissa on useampia onsenhotelleja, joissa osassa myös päiväkäyntimahdollisuus.
 
 #### Muuta nähtävää
 
+- [AER-rakennuksen näköalatasanne](http://4sq.com/nXV6Bb)
+- Sendain linnanrauniot
 
 ### Takayama
 
@@ -281,21 +299,55 @@ Tässä listatut kohteet ja majoitusratkaisut on testattu henkilökohtaisesti.
 
 #### Majoitus
 
-#### Ruokailu
+- Smile Hotel Sugamo [Sivusto](https://smile-hotels.com/hotels/show/sugamo) [Booking.com](http://www.booking.com/hotel/jp/smile-sugamo.html?aid=1485436)
+    - Perus bisneshotelli, lähellä Yamanote-asemaa
+- Hotel Sunny [Sivusto](http://www.hotelsunny.co.jp/index_en.html) [Booking.com](http://www.booking.com/hotel/jp/sunny-tokyo.html?aid=1485436&no_rooms=1&group_adults=1)
+    - Perus bisneshotelli, lähellä Yamanote-asemaa, pehmeät sängyt
+
+#### Ruokailu ja muu viihdetoiminta
+
+- [Ant'n Bee](http://4sq.com/aevKJI) Craft beeriä
+- [Bar Mimitsuka](http://4sq.com/1hHVeyk) Tasokas cocktailbaari
+- [Bar PSY](http://4sq.com/c29ApD) Rokkibaari
+- [Beer Saurus](http://4sq.com/cXxJ54)
+- [Bird Land Ginza](http://4sq.com/cCFp0j) Michelin-palkittua Yakitoria. Tee pöytävaraus hyvissä ajoin.
+- [Darcy's cafe&diner](http://4sq.com/1cUkhB2) Burgeria
+- [Golden Brown](http://4sq.com/9hwXu6) Burgeria
+- [Goodbeer faucets](http://4sq.com/texSsS)
+- [Hop-Scotch Craft Beer & Whiskey](http://4sq.com/1I4psHg) 
+- [Jigoku no Deathmatch](http://4sq.com/yMZSf1) Kompakti rokkibaari
+- [Kurand Sake Market](http://4sq.com/1BcGSxs) Sakenomihoodai
+- [Magurobito](http://4sq.com/1l92Y3H) Toimiva liukuhihnasushila Akiban Yodobashin yläkerrassa
+- [Marukin](http://4sq.com/I6pzez) Yakitoria, itsepalvelunomihoodai
+- [Menya Musashi](http://4sq.com/lm5wLe) Hyvät tsukemenit
+- [Metal Bar GODZ](http://4sq.com/4nyCvo)
+- [Pizza Studio Tamaki](http://4sq.com/2n6tWyC) 
+- [Pizzeria e trattoria da ISA](http://4sq.com/avvScy)
+- [Rainbow Kitchen](http://4sq.com/9tLO55) Burgeria
+- [Seirinkan](http://4sq.com/93gX3m)
+- [Sengokujiman Ramen](http://4sq.com/9pP2Hz) Hyvät tonkotsuraamenit
+- [TAPxTAP](http://4sq.com/29jnjkW)
+- [Tsuta](http://4sq.com/z3ejt2) Michelin-palkittua raamenia. Tarkista jonotusmenettelyt etukäteen.
+- [Turtles](http://4sq.com/9PWxEw) Mielenkiintoisia burgerinäkemyksiä.
+- [Two Dogs Taproom](http://4sq.com/1cma1QY)
+- [Yonayona Beer Works](http://4sq.com/1ElAdDy)
 
 #### Lämpimiä vesiä
 
+- [Sakura](http://4sq.com/9Bckcv) 
+- [Saya no Yudokoro](http://4sq.com/aEZyG2)
+
 #### Muuta nähtävää
+
+- [JAXA Tsukuba Space Center](http://global.jaxa.jp/about/centers/tksc/)
+- [Metro-museo](http://chikahaku.jp/)
+- [Saitama railway museum](http://www.railway-museum.jp/en/)
+- [Tobu Museum](http://4sq.com/cnpbxP)
+- [Tokorozawa aviation museum](http://4sq.com/dBlDgr)
 
 
 ### Toyama
 
-#### Majoitus
-
 #### Ruokailu
 
-#### Lämpimiä vesiä
-
-#### Muuta nähtävää
-
-
+- [Sushi Ei](http://4sq.com/a1ngKz) Erinomaista sushia.
