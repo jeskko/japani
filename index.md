@@ -1,6 +1,9 @@
 # Jeskkon Japanivinkit
 
+[![cc-by-sa](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
 *Sivusto saattaa sisältää kumppanuusohjelmalinkkejä erinäisiin varauspalveluihin.*
+
 
 ## Yleisohjeita
 
@@ -351,3 +354,4 @@ Näissä molemmissa kohteissa on useampia onsenhotelleja, joissa osassa myös p�
 #### Ruokailu
 
 - [Sushi Ei](http://4sq.com/a1ngKz) Erinomaista sushia.
+
