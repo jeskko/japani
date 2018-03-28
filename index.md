@@ -1,7 +1,5 @@
 # Jeskkon Japanivinkit
 
-[![cc-by-sa](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/)
-
 *Sivusto saattaa sisältää kumppanuusohjelmalinkkejä erinäisiin varauspalveluihin.*
 
 ## Tietoa sivustosta
@@ -14,17 +12,17 @@ Mikäli haluat osallistua sisällöntuotantoon, lue [ohjeet](https://github.com/
 
 Nämä ohjeet pohjautuvat henkilökohtaisiin kokemuksiin mutta eivät välttämättä johda kaikkein halvimpaan mahdolliseen lopputulokseen, painoarvo asettuu jossain määrin käytännöllisyyden suuntaan.
 
-- Operaattorien ulkomaanpaketit, tätä kirjoitettaessa erityisesti Elisan reissupaketti alkaa olla siinä hintatasossa, että nykyään ei vaikuta enää hankkia erillistä prepaid-simmiä tai vuokrawifi-laitetta paikan päältä.
-- Jos kuitenkin haluat erillisen prepaid-simmin, omien havaintojen mukaan IIJMion travel sim on toimivuudeltaan varsin hyvä, tuotetta saa isommista elektroniikkatavarataloista (esim. Yodobashi, Bic Camera) ja vähän suurempaan hintaan lentokentiltäkin. Erillistä wifi-mokkulaa en ole kokenut luontevaksi, kun ladattavia laitteita tulee yksi lisää. Ryhmäetuakaan ei oikein tästä saa, kun sitten vaikeutuisi osaryhmissä kulkeminen huomattavasti. 
+- Operaattorien ulkomaanpaketit, tätä kirjoitettaessa erityisesti [Elisan reissunetti](https://elisa.fi/reissunetti/) alkaa olla siinä hintatasossa, että nykyään ei välttämättä vaikuta enää hankkia aina oletusarvoisesti erillistä prepaid-simmiä tai vuokrawifi-laitetta paikan päältä.
+- Jos kuitenkin tarvitset erillisen prepaid-simmin, omien havaintojen mukaan [IIJMion travel sim](https://t.iijmio.jp/en/) on toimivuudeltaan varsin hyvä, tuotetta saa isommista elektroniikkatavarataloista (esim. Yodobashi, Bic Camera) ja vähän suurempaan hintaan lentokentiltäkin. Erillistä wifi-mokkulaa en ole kokenut luontevaksi, kun ladattavia laitteita tulee yksi lisää. Ryhmäetuakaan ei oikein tästä saa, kun sitten vaikeutuisi osaryhmissä kulkeminen huomattavasti. Riippuen ryhmädynamiikasta wifi-laitekin voi toki olla ihan käyttökelpoinen vaihtoehto.
 - Matkavaluutan vaihto Suomessa vaikuttaa olevan nykyään aika kalliihkoa verrattuna paikan päällä automaatista nostettuun rahaan. Suomalaiset kortit vaikuttavat toimivan ainakin Sevenbankin, Family Martin ja Japan Postin automaateissa hyvin. 
 - Yleisesti ottaen maksukorttien toimivuus on viime vuosina parantunut huomattavasti, käteistä tarvitsee lähinnä muutamissa ravintoloissa ja joissakin ryokan-henkisissä majoitteissa.
 - Suica-matkakortin saa nykyään kätevästi ainakin tuoreisiin Applen mobiililaitteisiin ja sen lataus käy näppärästi Apple Payllä. Suomessa helposti saatavilla olevia Apple Pay -yhteensopivia maksuvälineitä saa esimerkiksi Nordealta ja N26:lta. Suica toimii joukkoliikenteen lisäksi kätevästi myös useissa kaupoissa ja automaateissa.  
 - Jos aiot kulkea yli yhden matkan viikon aikana Shinkansen-junalla, Japan Rail Pass -tuote tulee keskimäärin erillisiä junalippuja halvemmaksi. Toimivaksi testattuja myyjiä ovat esimerkiksi <https://www.japan-rail-pass.com/>, <http://www.jrpassonline.com/> ja <https://www.jrpass.com/>, kannattaa vertailla päivän hintaa eri toimijoiden välillä. 
-- Jos jollakin paikkakunnalla majoitusratkaisuun ei ole erityistä preferenssiä, erilaiset bisneshotelliketjut (esim. APA Hotels, Toyoko Inn jne.) palvelevat tyypillisesti melko hyvin. Omatoimisesti kannattaa toki myös käydä kohteesta eri hakukoneiden tulokset, esim. [Booking.com](https://www.booking.com/index.html?aid=1485436) läpi ja koettaa poimia sieltä sopivan näköiset vaihtoehdot. Osalla kavereista on ollut ihan toimivia kokemuksia myös Airbnb-majoituksesta, mutta ainakin itse suhtaudun tähän varauksella, varsinkin suuremmissa kaupungeissa, historiassa löytyy kokemusta majoittajien tekemistä perumisista. 
+- Jos jollakin paikkakunnalla majoitusratkaisuun ei ole erityistä preferenssiä, erilaiset bisneshotelliketjut (esim. APA Hotels, Toyoko Inn jne.) palvelevat tyypillisesti melko hyvin. Omatoimisesti kannattaa toki myös käydä kohteesta eri hakukoneiden tulokset, esim. [Booking.com](https://www.booking.com/index.html?aid=1485436) läpi ja koettaa poimia sieltä sopivan näköiset vaihtoehdot. Osalla kavereista on ollut ihan toimivia kokemuksia myös Airbnb-majoituksesta, mutta ainakin itse suhtaudun tähän varauksella, varsinkin suuremmissa kaupungeissa, historiassa löytyy kokemuksia majoittajien tekemistä perumisista. 
  
 ## Kohdetietoutta
 
-Tässä listatut kohteet ja majoitusratkaisut on testattu henkilökohtaisesti.
+Tässä listatut kohteet ja majoitusratkaisut on testattu henkilökohtaisesti. Sivuston tässä versiossa ei vielä ole otettu erityishuomiota otakuharrastajien ostos- tai nähtävyyskohteisiin, mutta lisätään tietoa näistäkin jahka aika sille on sopiva.
 
 ### Huomionarvoisia ja toimiviksi todettuja ketjuravintoloita
 
@@ -360,6 +358,15 @@ Näissä molemmissa kohteissa on useampia onsenhotelleja, joissa osassa myös p�
 
 - [Sushi Ei](http://4sq.com/a1ngKz) Erinomaista sushia.
 
+#### Lämpimiä vesiä
+
+- Hotel Ogawa [Booking.com](http://www.booking.com/hotel/jp/ogawa-ogawa-onsen.html?aid=1485436) Mainio onsenryokan jonkin matkan päässä Toyamasta. Täällä on tullut syötyä ehkä paras sashimipainotteinen ryokanillallinen.
+
 ## Sisällöntuotantoon osallistuneet
 
 - Jarkko "[Jeskko](https://twitter.com/jeskko)" Vääräniemi
+
+Sivusto käyttää Pandoc-muunnosohjelmaa ja B. Woodruffin [Pan-Am](http://benjam.info/panam/) -tyyliohjemäärittelyä.
+
+[![cc-by-sa](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+

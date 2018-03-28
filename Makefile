@@ -6,7 +6,7 @@ EXPORTED_DOCS=\
 
 PANDOC=/usr/bin/pandoc
 PANDOC_OPTIONS=--smart --standalone
-PANDOC_HTML_OPTIONS=--to html5 --css pandoc.css
+PANDOC_HTML_OPTIONS=--to html5 --css=styling.css -V lang=fi -V highlighting-css= 
 PANDOC_PDF_OPTIONS=
 
 OUTPUT=/www/nipaa.me/howto
