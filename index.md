@@ -8,7 +8,7 @@
 
 Idea sivuston väsäämiseen tuli, kun erinäisissä medioissa on aika tiheään reissuasioista kysyviä, ja kun maassa on kuitenkin aika monta kertaa jo käynyt, niin aiheesta on kertynyt jonkin verran sanottavaa.
 
-Mikäli haluat osallistua sisällöntuotantoon, lue [ohjeet](https://github.com/jeskko/japani/blob/master/CONTRIBUTING.md)
+Mikäli haluat osallistua sisällöntuotantoon, lue [ohjeet](https://github.com/jeskko/japani/blob/master/CONTRIBUTING.md).
 
 ## Yleisohjeita
 
