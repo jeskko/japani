@@ -362,4 +362,4 @@ Näissä molemmissa kohteissa on useampia onsenhotelleja, joissa osassa myös p�
 
 ## Sisällöntuotantoon osallistuneet
 
-- Jarkko "[Jeskko](https://twitter.com/jeskko) Vääräniemi
+- Jarkko "[Jeskko](https://twitter.com/jeskko)" Vääräniemi
