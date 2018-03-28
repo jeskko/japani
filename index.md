@@ -4,6 +4,11 @@
 
 *Sivusto saattaa sisältää kumppanuusohjelmalinkkejä erinäisiin varauspalveluihin.*
 
+## Tietoa sivustosta
+
+Idea sivuston väsäämiseen tuli, kun erinäisissä medioissa on aika tiheään reissuasioista kysyviä, ja kun maassa on kuitenkin aika monta kertaa jo käynyt, niin aiheesta on kertynyt jonkin verran sanottavaa.
+
+Mikäli haluat osallistua sisällöntuotantoon, voit tehdä sen esim. pull requesteilla [sivuston git-repositorya](https://github.com/jeskko/japani) vasten. Ennen tätä on toki hyvä kommunikoida suunnitelmistaan.
 
 ## Yleisohjeita
 
