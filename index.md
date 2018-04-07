@@ -19,6 +19,7 @@ Nämä ohjeet pohjautuvat henkilökohtaisiin kokemuksiin mutta eivät välttäm�
 - Suica-matkakortin saa nykyään kätevästi ainakin tuoreisiin Applen mobiililaitteisiin ja sen lataus käy näppärästi Apple Payllä. Suomessa helposti saatavilla olevia Apple Pay -yhteensopivia maksuvälineitä saa esimerkiksi Nordealta ja N26:lta. Suica toimii joukkoliikenteen lisäksi kätevästi myös useissa kaupoissa ja automaateissa.  
 - Jos aiot kulkea yli yhden matkan viikon aikana Shinkansen-junalla, Japan Rail Pass -tuote tulee keskimäärin erillisiä junalippuja halvemmaksi. Toimivaksi testattuja myyjiä ovat esimerkiksi <https://www.japan-rail-pass.com/>, <http://www.jrpassonline.com/> ja <https://www.jrpass.com/>, kannattaa vertailla päivän hintaa eri toimijoiden välillä. 
 - Jos jollakin paikkakunnalla majoitusratkaisuun ei ole erityistä preferenssiä, erilaiset bisneshotelliketjut (esim. APA Hotels, Toyoko Inn jne.) palvelevat tyypillisesti melko hyvin. Omatoimisesti kannattaa toki myös käydä kohteesta eri hakukoneiden tulokset, esim. [Booking.com](https://www.booking.com/index.html?aid=1485436) läpi ja koettaa poimia sieltä sopivan näköiset vaihtoehdot. Osalla kavereista on ollut ihan toimivia kokemuksia myös Airbnb-majoituksesta, mutta ainakin itse suhtaudun tähän varauksella, varsinkin suuremmissa kaupungeissa, historiassa löytyy kokemuksia majoittajien tekemistä perumisista. 
+- APA Hotels -ketjusta mainittakoon että useimmissa ketjun hotelleista vaikuttaa olevan varsin hyvät kylpymahdollisuudet.
  
 ## Kohdetietoutta
 
@@ -158,6 +159,14 @@ Tässä listatut kohteet ja majoitusratkaisut on testattu henkilökohtaisesti. S
 - Miyajima
     - Itsukushima shrine
     - Peuroja
+
+### Kanazawa
+
+#### Lämpimiä vesiä majoitusoptiolla
+
+- APA Hotel Kanazawa Ekimae [Booking.com](http://www.booking.com/hotel/jp/apa-kanazawa-ekimae.html?aid=1485436)
+    - Kehuttu kylpyratkaisu ylimmässä kerroksessa ulkokylpyoptiolla.
+    - Ilmainen hotellin asukkaille, muille verailijoille hinta ilmeisesti 1000 JPY.
 
 ### Kyoto
 
